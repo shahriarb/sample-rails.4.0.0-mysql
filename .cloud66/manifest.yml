@@ -1,4 +1,0 @@
-development: 
-    rails: 
-        configuration:
-            use_asset_pipeline: true
